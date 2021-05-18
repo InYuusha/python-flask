@@ -1,5 +1,23 @@
 h1{
-    color:red;
+    color:rgb(91, 142, 209);
     margin:20px;
  
+}
+table {
+    
+    margin-bottom:20px;
+}
+td{
+     width:40%;
+     margin-bottom: 20px;
+     
+}
+
+.content{
+    display:flex column;
+    
+}
+body{
+    display:flex;
+    justify-content:center;
 }
